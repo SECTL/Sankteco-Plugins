@@ -1,0 +1,14 @@
+{
+    "id": "com.sankteco.music_plugin",
+    "name": "点名音乐插件",
+    "version": "1.0.0",
+    "generation": 1,
+    "description": "点名时自动播放背景音乐",
+    "author": "Sankteco",
+    "icon": "MUSIC",
+    "entry": "main.py",
+    "min_app_version": "1.0.0",
+    "requirements": [
+        "pygame>=2.0.0"
+    ]
+}
